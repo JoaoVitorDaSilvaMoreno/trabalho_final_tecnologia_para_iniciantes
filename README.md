@@ -46,5 +46,4 @@ Desenvolver um sistema interativo via terminal para gerenciar o acervo e os empr
 
 1. Clone ou baixe este repositório.  
 2. Execute o script Python no terminal:  
-```bash
-python nome_do_arquivo.py
+
